@@ -19,6 +19,11 @@
     width: 20%;
     height: 40vw;
 }
+
+img {
+    width: 100%;
+}
+
 #tabla{
     border: 1px solid violet;
     width: 50%;
