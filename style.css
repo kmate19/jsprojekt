@@ -1,0 +1,64 @@
+#jatekTer{
+    border: 1px solid rgb(0, 0, 0);
+    width: 100%;
+    height: 40.5vw;
+    display: flex;
+    background-color: rgb(83, 14, 14);
+}
+#kartya{
+    border: 1px solid green;
+    width: auto;
+    height: 47%;
+    margin: 3%;
+    background-color: brown;
+    background-image: url("kartyabox.png");
+}
+#pontok{
+    border: 1px solid blue;
+    width: auto;
+    height: 47%;
+    margin: 3%;
+    background-color: brown;
+    background-image: url("pontok.png");
+}
+#korok{
+    border: 1px solid yellow;
+    width: 4%;
+    height: 50%;
+    margin-top: 10%;
+    margin-left: 1%;
+    background-color: brown;
+    background-image: url("korok.png");
+}
+#tabla{
+    border: 1px solid violet;
+    width: 50%;
+    height: 40vw;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    background-color:rgb(0, 80, 0);
+}
+#leftside{
+    width: 60vh;
+    height: 40vw;
+}
+.sordiv{
+    display: flex;
+    flex-direction: row;
+    height: 8vw;
+}
+.oszlopdiv{
+    width: 16.6%;
+    margin: 5px;
+}
+.oszlopdiv{
+    border: 1px solid black;
+}
+img {
+    width: 100%;
+}
+body{
+    background: rgb(145,145,145);
+    background: linear-gradient(90deg, rgba(145,145,145,1) 0%, rgba(74,74,74,1) 47%, rgba(201,201,201,1) 100%);
+}
